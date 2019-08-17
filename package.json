@@ -11,8 +11,17 @@
     "url": "git+https://github.com/ad35h/webpack-stater-kit.git"
   },
   "keywords": [
-    "webpack", "JS", "HTML", "PUG", "SASS", "ES6"
+    "webpack",
+    "JS",
+    "HTML",
+    "PUG",
+    "SASS",
+    "ES6"
   ],
   "author": "Adesh B. Fakooa",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
 }
