@@ -1,0 +1,18 @@
+{
+  "name": "webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple webpack starter kit for building framework-less frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad35h/webpack-stater-kit.git"
+  },
+  "keywords": [
+    "webpack", "JS", "HTML", "PUG", "SASS", "ES6"
+  ],
+  "author": "Adesh B. Fakooa",
+  "license": ""
+}
