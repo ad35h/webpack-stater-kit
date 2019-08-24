@@ -4,7 +4,7 @@
   "description": "A simple webpack starter kit for building framework-less frontend projects",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "NODE_ENV=production webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,8 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
     "cssnano": "^4.1.10",
+    "file-loader": "^4.2.0",
+    "mini-css-extract-plugin": "^0.8.0",
     "postcss-loader": "^3.0.0",
     "sass": "^1.22.10",
     "sass-loader": "^7.2.0",
